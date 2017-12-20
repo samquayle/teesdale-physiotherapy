@@ -1,7 +1,7 @@
 ---
 title: Opening times
 date: 2017-12-20 16:43:00 Z
-Field name:
+List:
   Monday: Closed
   Tuesday: 9am – 5pm
   Wednesday: 9am – 5pm
