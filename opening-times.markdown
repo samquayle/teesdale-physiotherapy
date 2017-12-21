@@ -10,6 +10,7 @@ List:
   Friday: 9am – 5pm
   Saturday: 9am – 12pm
   Key: Closed
+layout: default
 ---
 
 

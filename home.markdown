@@ -8,5 +8,6 @@ Treatments:
 - 'Sports injuries '
 - Arthritis
 - Aches and pains
+layout: default
 ---
 
