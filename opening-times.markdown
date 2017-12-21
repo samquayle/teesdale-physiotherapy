@@ -1,5 +1,4 @@
 ---
-layout: default.html
 title: Opening times
 date: 2017-12-20 16:43:00 Z
 List:
