@@ -4,7 +4,9 @@ date: 2017-12-21 14:29:00 Z
 layout: default
 ---
 
-Welcome to Teesdale Physiotherapy a family-run, physiotherapy clinic in Middleton-in-Teesdale. 
+Welcome to Teesdale Physiotherapy a small, friendly physiotherapy clinic in Middleton-in-Teesdale.
+
+Same day appointments available, all health insurance accepted.
 
 Call 01833 641202 to make an appointment.
 
