@@ -12,5 +12,4 @@ List:
 layout: default
 ---
 
-
 {{ title }}
