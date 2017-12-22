@@ -32,7 +32,7 @@ Call 01833 641202 to make an appointment.
 • Postural Assessment / Realignment
 • Electrotherapy
 
-### Opening hoours
+### Opening hours
 Monday: Closed
 Tuesday: 8am to 8pm
 Wednesday: 8am to 8pm
