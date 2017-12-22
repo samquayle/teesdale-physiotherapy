@@ -1,6 +1,7 @@
 ---
 title: Index
 date: 2017-12-21 14:29:00 Z
+layout: default
 ---
 
-This is Teesdale Physiotherpay clinic
+Welcome to Teesdale Physiotherapy, a warm, family run physiotherapy and sports injury clinic in Middleton-in-Teesdale.
