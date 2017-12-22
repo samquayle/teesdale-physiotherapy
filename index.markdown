@@ -4,9 +4,11 @@ date: 2017-12-21 14:29:00 Z
 layout: default
 ---
 
-Welcome to Teesdale Physiotherapy a family-run, physiotherapy clinic in Middleton-in-Teesdale.
+Welcome to Teesdale Physiotherapy a family-run, physiotherapy clinic in Middleton-in-Teesdale. 
 
-We treat:
+Call 01833 641202 to make an appointment.
+
+### We treat:
 • Sports injuries
 • Arthritis
 • Injury rehabilitiation
@@ -18,7 +20,7 @@ We treat:
 • Repetitive strain injuries (tendonitis)
 • Work-related problems
 
-Services:
+### Services
 • Cranial osteopathy
 • Pilates classes
 • Maitland spinal mobilisations
@@ -29,3 +31,15 @@ Services:
 • Acupuncture
 • Postural Assessment / Realignment
 • Electrotherapy
+
+### Opening hoours
+Monday: Closed
+Tuesday: 8am to 8pm
+Wednesday: 8am to 8pm
+Thursday: Closed 
+Friday: 8am to 8pm
+Saturday: 8am to 12pm
+
+### Contact
+Telephone: 01833 641202
+Address: 13 Chapel Row, Middleton-in-Teesdale, Barnard Castle DL12 0SN
